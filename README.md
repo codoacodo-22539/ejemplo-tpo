@@ -22,10 +22,7 @@ El demo esta en el siguiente link [link]()
 
 ## Tools Utilizadas
 
-Below are are list of tools used, and the precise things they were used for:
-
 - [Ion Icons](https://ionic.io/ionicons) para el hambuger menu bar
-- [Drawkit]() for Jane Doe illustration
 - [Icon8](https://icons8.com/) para los skills icons
 
 ## Estructura de carpeta
